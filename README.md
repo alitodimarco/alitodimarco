@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Soy Alejandro Pérez di Marco y estoy estudiando un grado superior de DAW
 <!--
 **alitodimarco/alitodimarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

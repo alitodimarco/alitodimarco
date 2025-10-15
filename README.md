@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Alejandro 👋
 
 Soy Alejandro Pérez di Marco y estoy estudiando un grado superior de DAW
 - ⚡ Me guta la informática

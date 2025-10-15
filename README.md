@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hola, soy Alejandro 👋
 
 Soy Alejandro Pérez di Marco y estoy estudiando un grado superior de DAW
@@ -16,3 +17,6 @@ Soy Alejandro Pérez di Marco y estoy estudiando un grado superior de DAW
 - 📫 How to reach me: ...
 
 -->
+=======
+# ¡Hola, soy <TU NOMBRE>! 👋
+>>>>>>> d9de28a (docs: creando mi README)
